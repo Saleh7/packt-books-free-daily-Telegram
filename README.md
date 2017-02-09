@@ -20,9 +20,11 @@ make
  
 --------------------------------
 ### (2) install [Free Learning PacktPublishing script](https://github.com/igbt6/Packt-Publishing-Free-Learning)
-Clone GitHub Repository
+Clone GitHub
 
 `git clone https://github.com/igbt6/Packt-Publishing-Free-Learning.git && cd Packt-Publishing-Free-Learning && pip install -r requirements.txt && mv configFileTemplate.cfg configFile.cfg`
+
+change your login credentials in configFile.cfg file
 
 --------------------------------
 ### (3) download daily-Telegram.sh
